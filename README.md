@@ -1,2 +1,2 @@
-# Mean-Median-Mode-Calculator
+# Calculator-Component
 Created with CodeSandbox
